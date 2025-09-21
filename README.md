@@ -1,1 +1,1 @@
-# Smart Clinic - Microservices
+# Email Service - Microservices
